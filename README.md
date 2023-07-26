@@ -11,5 +11,5 @@ $ python manage.py runserver
 
 ```
 
-# AND your project running on local development server. 
-# Go to your web browser & type http://127.0.0.1:8000/movies
+## Your project will be running on local development server. 
+## Go to your web browser & type http://127.0.0.1:8000/movies
