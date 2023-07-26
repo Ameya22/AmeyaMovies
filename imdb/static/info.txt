@@ -1,0 +1,1 @@
+Your static files will get added here after you run collectstatic command
